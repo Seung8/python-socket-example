@@ -75,4 +75,4 @@
 
 ### 파이썬으로 소켓 실습
 
-- `example.py` 코드 참조
+- [파이썬 socket 공식문서](https://docs.python.org/3/library/socket.html#example) 예제를 기반으로 실습
